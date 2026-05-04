@@ -12,6 +12,6 @@
 
 2. 開啟 Property 面板，進入 **Extra Properties**。
 
-3.根據模擬需求，調整以下等液體參數：Surface Tension,Viscosity, Gravity
+3. 根據模擬需求，調整以下等液體參數：Surface Tension,Viscosity, Gravity
 
-4.透過不同參數組合，模擬液體在平面上的接觸、擴散及覆蓋範圍變化。
+4. 透過不同參數組合，模擬液體在平面上的接觸、擴散及覆蓋範圍變化。
